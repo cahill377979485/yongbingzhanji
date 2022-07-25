@@ -1,4 +1,4 @@
-### github太卡了，文字识别模块传不上去，已转到gittee上了。https://gitee.com/cahill377979485/yongbingzhanji
+### github太卡了，文字识别模块传不上去，已转到gitee上了。https://gitee.com/cahill377979485/yongbingzhanji
 
 ### 佣兵战纪刷硬币工具
 ## 前言：
